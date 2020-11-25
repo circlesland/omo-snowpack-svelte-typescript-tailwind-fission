@@ -49,7 +49,7 @@ Register your dapp and enter path of build folder (./bundle)
 fission app register --verbose
 ```
 
-Publish and delpoy your dapp
+Publish and deploy your dapp
 ```bash
 npm run deploy
 ```
