@@ -51,6 +51,6 @@ fission app register --verbose
 
 Publish and delpoy your dapp
 ```bash
-npm run deploy
+npm run deploy --verbose
 ```
 This will first build and then publish your dapp to ipfs via the fission service
