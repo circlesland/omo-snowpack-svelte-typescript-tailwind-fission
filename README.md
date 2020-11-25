@@ -24,7 +24,7 @@ Go to your browser and open https://localhost:8080
 
 
 ### Building for production
-The `build` script will compile the app for production. By default, the bundle will be created at `/build/`, which means your public directory will contain everything you need to run the app.
+The `build` script will compile the app for production. 
 
 ```bash
 npm run build
@@ -44,7 +44,7 @@ Setup your account keys with fission
 fission setup --verbose
 ```
 
-Register your dapp and enter path of build folder (./public)
+Register your dapp and enter path of build folder (./bundle)
 ```bash
 fission app register --verbose
 ```
