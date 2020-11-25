@@ -4,11 +4,11 @@ Snowpack, Svelte, Typescript, Tailwind, Fission
 ## Install
 
 Clone Repo 
-`git clone https://github.com/omoearth/omo-dapp-starter.git`
+`git clone https://github.com/omoearth/omo-snowpack-svelte-typescript-tailwind-fission.git`
 
 Enter directory 
 ```bash
-cd omo-dapp-starter
+cd omo-snowpack-svelte-typescript-tailwind-fission
 ```
 
 Install with npm
